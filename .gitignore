@@ -1,0 +1,11 @@
+# backups
+backups/
+backup/
+
+# logs
+logs/
+*.log
+
+# ssl secrets (never commit)
+*.key
+*.pem
